@@ -1,0 +1,6 @@
+TRIG - PD4
+ECHO - PE9
+
+Voltage divider for ECHO pin.
+
+Timer 1, Channel 3 for ECHO Pin

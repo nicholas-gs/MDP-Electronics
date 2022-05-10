@@ -1,0 +1,16 @@
+std_abs.h:71:3:constexpr double std::abs(double)	16	static
+main.cpp:123:10:uint32_t calculate_RPM(int, uint32_t)	24	static
+main.cpp:135:5:int main()	8	static
+main.cpp:225:6:void SystemClock_Config()	88	static
+main.cpp:265:13:void MX_TIM2_Init()	56	static
+main.cpp:314:13:void MX_TIM3_Init()	56	static
+main.cpp:363:13:void MX_TIM8_Init()	96	static
+main.cpp:442:13:void MX_GPIO_Init()	48	static
+main.cpp:492:6:void StartDefaultTask(void*)	16	static
+main.cpp:510:6:void motor_task(void*)	16	static
+main.cpp:545:6:void encoder_task(void*)	56	static
+main.cpp:693:6:void oled_task(void*)	152	static
+main.cpp:748:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
+main.cpp:765:6:void Error_Handler()	4	static,ignoring_inline_asm
+main.cpp:774:1:void __static_initialization_and_destruction_0(int, int)	24	static
+main.cpp:774:1:cpp)	8	static

@@ -1,0 +1,11 @@
+oled.cpp:8:6:void OLED_Refresh_Gram()	16	static
+oled.cpp:20:6:void OLED_WR_Byte(uint8_t, uint8_t)	24	static
+oled.cpp:43:6:void OLED_Clear()	16	static
+oled.cpp:53:6:void OLED_Display_On()	8	static
+oled.cpp:62:6:void OLED_Display_Off()	8	static
+oled.cpp:72:6:void OLED_DrawPoint(uint8_t, uint8_t, uint8_t)	24	static
+oled.cpp:85:6:void OLED_ShowChar(uint8_t, uint8_t, uint8_t, uint8_t, uint8_t)	32	static
+oled.cpp:110:10:uint32_t oled_pow(uint8_t, uint8_t)	24	static
+oled.cpp:120:6:void OLED_ShowNumber(uint8_t, uint8_t, uint32_t, uint8_t, uint8_t)	40	static
+oled.cpp:142:6:void OLED_ShowString(uint8_t, uint8_t, const uint8_t*)	24	static
+oled.cpp:156:6:void OLED_Init()	8	static
